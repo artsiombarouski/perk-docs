@@ -12,7 +12,7 @@ Google Chrome is one of the most popular browsers available, Here's how to disab
 
 1. Select Chrome's Main Menu button, marked by three vertically aligned dots. It's located in the upper right corner of the browser.
 2. Select **Settings > Advanced > Privacy and security > Site Settings > Location**.
-![](https://www.lifewire.com/thmb/E3N6Z-bk4ZgB7DvLuYXvpwPhIKU=/2106x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_denying-access-to-your-location-4027789-9e83f959faea489ab27f2b7abd8e57d5.jpg)
+![image](https://www.lifewire.com/thmb/E3N6Z-bk4ZgB7DvLuYXvpwPhIKU=/2106x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_denying-access-to-your-location-4027789-9e83f959faea489ab27f2b7abd8e57d5.jpg)
 3. Move the **Ask before accessing (recommended)** slider to toggle it on or off. Turn it on if you want websites to request your permission before accessing your location.
 ![](https://www.lifewire.com/thmb/_p-jPoPYDU9SZ8WVeX2_L681UIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_denying-access-to-your-location-4027789-2255b3b8d92b466a8220379094c942e8.jpg)
 4. Below that, you can see the Block section and the Allow section. Here, you can see which websites you've given geolocation permissions to and revoke them, if needed.
